@@ -9,7 +9,7 @@ API:
     PUT/<identificacion>
     DELETE/<identificacion>
 ```
-Pre-requisitos 📋
+## Pre-requisitos 📋
 
 Version Python 3.9
 
@@ -22,4 +22,4 @@ y
 ```
 pip install flask, flask-sqlalchemy, flask-marshmallow, marshmallow-sqlalchemy, pymysql
 ```
-
+### by Grimaldi ✒️
